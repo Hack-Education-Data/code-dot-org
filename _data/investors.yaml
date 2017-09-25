@@ -1,39 +1,377 @@
-- Name: CDC Group
-  Date: Unknown
-  Notes: ''
-- Name: International Finance Corporation
-  Date: Unknown
-  Notes: ''
-- Name: Khosla Ventures
-  Date: Unknown
-  Notes: ''
-- Name: Learn Capital
-  Date: Unknown
-  Notes: ''
-- Name: NEA
-  Date: Unknown
-  Notes: ''
-- Name: Novastar Ventures
-  Date: Unknown
-  Notes: ''
+- Name: Google
+  Date: '2016'
+  Notes: >-
+    $23 million grant. Other grantees include Infosys, Mark Zuckerberg,
+    Microsoft, and Priscilla Chan. $3+ million contribution according to
+    Code.org website
+- Name: Infosys
+  Date: '2016'
+  Notes: >-
+    $23 million grant. Other grantees include Google, Mark Zuckerberg,
+    Microsoft, and Priscilla Chan. $3+ million contribution according to
+    Code.org website
+- Name: Mark Zuckerberg
+  Date: '2016'
+  Notes: >-
+    $23 million grant. Other grantees include Google, Infosys, Microsoft, and
+    Priscilla Chan
+- Name: Microsoft
+  Date: '2016'
+  Notes: >-
+    $23 million grant. Other grantees include Google, Infosys, Mark Zuckerberg,
+    and Priscilla Chan. $10+ million contribution according to Code.org website
+- Name: Priscilla Chan
+  Date: '2016'
+  Notes: >-
+    $23 million grant. Other grantees include Google, Infosys, Mark Zuckerberg,
+    Microsoft
+- Name: ''
+  Date: '2014'
+  Notes: $2.8 million crowdfunding
+- Name: Facebook
+  Date: ''
+  Notes: $10+ million contribution according to Code.org website
+- Name: Ballmer Family Giving
+  Date: ''
+  Notes: $3+ million contribution according to Code.org website
 - Name: Omidyar Network
-  Date: Unknown
-  Notes: ''
-- Name: PanAfrican Investment Co LLC
-  Date: Unknown
-  Notes: ''
-- Name: Rethink Education
-  Date: Unknown
-  Notes: ''
+  Date: ''
+  Notes: $3+ million contribution according to Code.org website
+- Name: Ali and Hadi Partovi
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Bill Gates
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Amazon Web Services
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Bill & Melinda Gates Foundation
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: BlackRock
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Diane Tang and Ben Smith
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Drew Houston
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Jeff Bezos
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: John and Anne Doerr
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: 'The Marie-Josee and Henry R. Kravis Foundation '
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
 - Name: Chan Zuckerberg Initiative
-  Date: Unknown
-  Notes: ''
-- Name: Bill Gates Investments
-  Date: Unknown
-  Notes: ''
-- Name: Pershing Square Foundation
-  Date: Unknown
-  Notes: ''
-- Name: LGT Impact Ventures
-  Date: Unknown
-  Notes: ''
+  Date: ''
+  Notes: >-
+    $1+ million contribution according to Code.org website. Unclear if this is
+    separate from the Zuckerberg and Chan donations that Crunchbase lists
+- Name: Quadrivium
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Reid Hoffman
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Salesforce
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Sean Parker
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Verizon
+  Date: ''
+  Notes: $1+ million contribution according to Code.org website
+- Name: Accenture
+  Date: ''
+  Notes: '$500,000+ contribution according to Code.org website'
+- Name: AT&T
+  Date: ''
+  Notes: '$500,000+ contribution according to Code.org website'
+- Name: Expedia
+  Date: ''
+  Notes: '$500,000+ contribution according to Code.org website'
+- Name: Juniper Networks
+  Date: ''
+  Notes: '$500,000+ contribution according to Code.org website'
+- Name: Mark Cuban
+  Date: ''
+  Notes: '$500,000+ contribution according to Code.org website'
+- Name: Association for Computing Machinery (ACM)
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: CA Technologies
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: CME Group Foundation
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: CSNYC
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Electronic Arts
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Emerson Collective
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: General Motors
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: The Honest Company
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Humble Bundle
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: IAC
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Jeff Weiner
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Jeff Wilke
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Jerry Yang
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Ken Fox
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Motorola Solutions Foundation
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Owen and Jennifer Van Natta
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Squarespace
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Symantec
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: The Walt Disney Company
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Vinod and Neeru Khosla
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Workday
+  Date: ''
+  Notes: '$100,000+ contribution according to Code.org website'
+- Name: Alfred Lin
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Allen & Co
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Barton Family Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Best Buy
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Christian Leone
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: CNYL Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Craig Silverstein and Mary Obelnicki
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: CSC Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Dara Khosrowshahi
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Dave Maestri
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: GoDaddy
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: John and Melissa Meier
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: JP Morgan Chase & Co
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Keith Rabois
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Ken Hirsh
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: LinkedIn
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Matt Mullenweg
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Max Levchin
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Megan Smith
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Microsoft Alumni Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Ned and Haleh Clapp
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Nick and Leslie Hanauer Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Osman Rashid
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Phokion Potamianos-Homem
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Rackspace
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Riot Games
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Ron Conway
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Ronald and Ling Cheng
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Sameer Gandhi
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Swartz Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Sylvina Capital
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Tableau Foundation
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Taner Halicioglu
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Technically Learning
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Twilio
+  Date: ''
+  Notes: '$25,000+ contribution according to Code.org website'
+- Name: Akamai Technologies
+  Date: ''
+  Notes: Unknown
+- Name: Alex and Susie Algard
+  Date: ''
+  Notes: Unknown
+- Name: Ali Rowghani
+  Date: ''
+  Notes: Unknown
+- Name: Ari Steinberg
+  Date: ''
+  Notes: Unknown
+- Name: Binder Foundation
+  Date: ''
+  Notes: Unknown
+- Name: BlackBerry Employee Giving
+  Date: ''
+  Notes: Unknown
+- Name: Case Foundation
+  Date: ''
+  Notes: Unknown
+- Name: Craig Nevill-Manning
+  Date: ''
+  Notes: Unknown
+- Name: DHI Group
+  Date: ''
+  Notes: Unknown
+- Name: Elastic
+  Date: ''
+  Notes: Unknown
+- Name: EWCY Foundation
+  Date: ''
+  Notes: Unknown
+- Name: Grace Chung
+  Date: ''
+  Notes: Unknown
+- Name: Harvest Foundation
+  Date: ''
+  Notes: Unknown
+- Name: Intel
+  Date: ''
+  Notes: Unknown
+- Name: Laurent Drion
+  Date: ''
+  Notes: Unknown
+- Name: Macys.com
+  Date: ''
+  Notes: Unknown
+- Name: Madrona Venture Group
+  Date: ''
+  Notes: Unknown
+- Name: Mark Torrance
+  Date: ''
+  Notes: Unknown
+- Name: Media Temple
+  Date: ''
+  Notes: Unknown
+- Name: Medina Foundation
+  Date: ''
+  Notes: Unknown
+- Name: Melinda Chelliah
+  Date: ''
+  Notes: Unknown
+- Name: Michael Birch
+  Date: ''
+  Notes: Unknown
+- Name: Mike Schroepfer and Erin Hoffman Family Foundation
+  Date: ''
+  Notes: Unknown
+- Name: National Math and Science Initiative
+  Date: ''
+  Notes: Unknown
+- Name: Nickolas Downey
+  Date: ''
+  Notes: Unknown
+- Name: Quantopian
+  Date: ''
+  Notes: Unknown
+- Name: Rob Short
+  Date: ''
+  Notes: Unknown
+- Name: Rudy Gadre
+  Date: ''
+  Notes: Unknown
+- Name: Sam Yagan
+  Date: ''
+  Notes: Unknown
+- Name: Scott Dorsey
+  Date: ''
+  Notes: Unknown
+- Name: Susan Wojcicki and Dennis Troper
+  Date: ''
+  Notes: Unknown
+- Name: Swish.com
+  Date: ''
+  Notes: Unknown
+- Name: The BOSS Group and Our Valued Clients
+  Date: ''
+  Notes: Unknown
+- Name: Wells Fargo
+  Date: ''
+  Notes: Unknown
+- Name: Yum! Brands Foundation
+  Date: ''
+  Notes: Unknown
